@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoGooglelog</string>
+    <string name="email">EMAIL</string>
+    <string name="title">Click Enter for Linkedin Login</string>
+</resources>
